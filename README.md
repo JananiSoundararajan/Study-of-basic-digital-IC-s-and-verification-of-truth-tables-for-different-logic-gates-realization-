@@ -1,6 +1,7 @@
-#### NAME: JANANI.S 
-
-#### REG NO: 212222230049
+````
+NAME: JANANI.S 
+REG NO: 212222230049
+````
 # Study of basic digital logic gates and verification of truth tables 
 ## Aim:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
